@@ -70,7 +70,7 @@ export default function Login() {
         </form>
         <div className="mt-3 text-center">
           <p>
-            Don't have an account?{" "}
+            Don't have an account?
             <a href="/signup"  style={{color:"#347064"}}>Sign Up</a>
           </p>
         </div>
